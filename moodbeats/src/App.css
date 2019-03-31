@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+.App-header {
+  font-size: 50px;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  
+}
+.flex-container > div {
+ 
+  
+  text-align: center;
+  
+}
+#bpm {
+  font-size: 20px;
+}
+#home-icon {
+  width: 10%;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
